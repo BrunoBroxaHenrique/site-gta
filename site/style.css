@@ -1,0 +1,23 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'penes';
+    src: url('dados/fonts/Penis\ Typography\ Black.ttf') format('truetype');
+}
+
+body{
+    background-color: red;
+    font: normal normal 1em Arial, sans-serif;
+}
+header{
+    color: #000000;
+    font: normal normal 2.5em 'penes';
+    text-align: center;
+}
+main{
+    color: black;
+    border-color: white;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    font-weight: bolder;
+}
